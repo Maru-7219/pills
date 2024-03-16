@@ -1,0 +1,85 @@
+<style>
+        .p-1:hover
+        {
+           color: white;
+           cursor: pointer;
+        }
+        .img-1
+        {
+            height: 300px;
+            width: 1000px;
+        }
+        .pill-1
+        {
+          position: relative;
+            top: -250px;
+            left: 450px;
+            
+            background-color: rgb(172, 3, 3);
+            color: white;
+            padding-left: 40px;
+            padding-right: 40px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            border: none;
+            border-radius: 20px;
+            box-shadow: 20px 10px 0.4 rgba(11, 11, 11, 0.7);
+            transition: background-color 0.4s , padding 0.4s;
+           font-size: xx-large;
+            margin-right: 10px;
+         
+        }
+        .pill-1:hover
+        {
+            padding-left: 50px;
+            padding-right: 50px;
+            background-color: rgb(40, 0, 0);
+            margin-right: 0px;
+            cursor: pointer;
+        }
+        .pill-1:active
+        {
+            background-color: rgb(255, 112, 60);
+        }
+        .pill-2
+        {
+          
+            position: relative;
+            top: -250px;
+            left: 900px;
+
+            background-color: rgb(0, 108, 231);
+            color: white;
+            padding-left: 40px;
+            padding-right: 40px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            border: none;
+            border-radius: 20px;
+            box-shadow: 20px 10px 0.4 ;
+            transition: background-color 0.4s , padding 0.4s;
+            margin-right: 10px;
+            font-size:xx-large;
+        }
+        .pill-2:hover
+        {
+            padding-left: 50px;
+            padding-right: 50px;
+            background-color: rgb(1, 6, 77);
+            margin-right: 0px;
+            cursor: pointer;
+        }
+        .pill-2:active
+        {
+            background-color: #352eff;
+        }
+        .img-1
+    {
+height: 800px;
+width: 1700px;
+
+    }
+    .image-1
+    {width: 1700px;
+    height: 500px;}
+    </style>
